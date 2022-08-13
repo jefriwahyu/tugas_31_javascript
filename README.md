@@ -2,7 +2,7 @@
 
 <b>Tujuan : </b>
 <ul>
-  <li>Memahami Penulisan External Style Javascript.</li>
+  <li>Memahami Penulisan External Style Javascript dan Function di Browser.</li>
 </ul>
 
 <b>Output in browser : </b>
